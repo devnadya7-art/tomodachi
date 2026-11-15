@@ -16,18 +16,156 @@
       "likes": 390,
       "gender": "Male",
       "date": "18. Apr. 2026",
-      "tags": ["anime", "cartoon", "avatar", "atla", "Shikamaru"]
+      "tags": [
+        "anime",
+        "naruto",
+        "ninja",
+        "shikamaru"
+      ]
     },
     {
       "id": "2",
       "title": "Naruto Uzumaki",
       "miiNumber": "#2",
-      "imageUrl": "https://i.pinimg.com/736x/4a/c4/ad/4ac4adaa8600f8ee73ea460214dce184.jpg",    
-      "category": "Videogame",
-      "likes": 302,
+      "imageUrl": "https://i.pinimg.com/736x/4a/c4/ad/4ac4adaa8600f8ee73ea460214dce184.jpg",
+      "category": "Anime",
+      "likes": 482,
       "gender": "Male",
       "date": "21. Feb. 2026",
-      "tags": ["anime", "cartoon", "avatar", "atla", "Shikamaru"]
+      "tags": [
+        "anime",
+        "naruto",
+        "hokage",
+        "leaf"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Kakashi Hatake",
+      "miiNumber": "#3",
+      "imageUrl": "https://i.pinimg.com/736x/17/e3/1b/17e31b91c51577cb4513868320bd4c58.jpg",
+      "category": "Anime",
+      "likes": 530,
+      "gender": "Male",
+      "date": "15. Mar. 2026",
+      "tags": [
+        "anime",
+        "naruto",
+        "sharingan",
+        "kakashi"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Itachi Uchiha",
+      "miiNumber": "#4",
+      "imageUrl": "https://i.pinimg.com/736x/2c/58/7f/2c587f35c4740765c4acfd25dc260262.jpg",
+      "category": "Anime",
+      "likes": 612,
+      "gender": "Male",
+      "date": "09. Jun. 2026",
+      "tags": [
+        "anime",
+        "naruto",
+        "akatsuki",
+        "itachi"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Hinata Hyuga",
+      "miiNumber": "#5",
+      "imageUrl": "https://i.pinimg.com/736x/0a/71/11/0a7111b3f898d08b3079d016505dffc6.jpg",
+      "category": "Anime",
+      "likes": 345,
+      "gender": "Female",
+      "date": "27. Dec. 2026",
+      "tags": [
+        "anime",
+        "naruto",
+        "byakugan",
+        "hinata"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Gaara",
+      "miiNumber": "#6",
+      "imageUrl": "https://i.pinimg.com/736x/18/65/d5/1865d5cf7833bb6ee5d7f7e5178ed988.jpg",
+      "category": "Anime",
+      "likes": 418,
+      "gender": "Male",
+      "date": "19. Jan. 2026",
+      "tags": [
+        "anime",
+        "naruto",
+        "kazekage",
+        "sand"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Rock Lee",
+      "miiNumber": "#7",
+      "imageUrl": "https://i.pinimg.com/736x/7b/9b/0d/7b9b0dc6447623eb014918f5a59b5d22.jpg",
+      "category": "Anime",
+      "likes": 298,
+      "gender": "Male",
+      "date": "27. Nov. 2026",
+      "tags": [
+        "anime",
+        "naruto",
+        "taijutsu",
+        "rocklee"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Neji Hyuga",
+      "miiNumber": "#8",
+      "imageUrl": "https://i.pinimg.com/736x/de/c0/52/dec052e0576c94064ae6db6465e93397.jpg",
+      "category": "Anime",
+      "likes": 367,
+      "gender": "Male",
+      "date": "03. Jul. 2026",
+      "tags": [
+        "anime",
+        "naruto",
+        "hyuga",
+        "neji"
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Yu Nishinoya",
+      "miiNumber": "#9",
+      "imageUrl": "https://i.pinimg.com/736x/51/b5/de/51b5dec1e388531b913b9bd99ed8c829.jpg",
+      "category": "Anime",
+      "likes": 420,
+      "gender": "Male",
+      "date": "10. Oct. 2026",
+      "tags": [
+        "anime",
+        "haikyuu",
+        "volleyball",
+        "libero"
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Saiki Kusuo",
+      "miiNumber": "#10",
+      "imageUrl": "https://i.pinimg.com/736x/26/0e/e4/260ee42c78d44c9d9427c5ed7d44387e.jpg",
+      "category": "Anime",
+      "likes": 510,
+      "gender": "Male",
+      "date": "16. Aug. 2026",
+      "tags": [
+        "anime",
+        "saikik",
+        "psychic",
+        "comedy"
+      ]
     }
   ]
 }
