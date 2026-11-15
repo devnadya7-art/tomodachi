@@ -1,0 +1,77 @@
+{
+  "categories": [
+    "All",
+    "Anime",
+    "Videogame",
+    "Cartoon",
+    "Famous"
+  ],
+  "miis": [
+    {
+      "id": "1",
+      "title": "Zuko",
+      "miiNumber": "#926",
+      "imageUrl": "https://i.pinimg.com/736x/46/22/70/462270e225d04f75639849efa158721e.jpg",
+      "category": "Anime",
+      "likes": 390,
+      "gender": "Male",
+      "date": "18. Apr. 2026",
+      "tags": ["anime", "cartoon", "avatar", "atla", "zuko"]
+    },
+    {
+      "id": "2",
+      "title": "Zelda (BotW)",
+      "miiNumber": "#104",
+      "imageUrl": "https://i.pinimg.com/736x/46/22/70/462270e225d04f75639849efa158721e.jpg",
+      "category": "Videogame",
+      "likes": 66,
+      "gender": "Female",
+      "date": "21. Feb. 2026",
+      "tags": ["tloz", "thelegendofzelda", "princess"]
+    },
+    {
+      "id": "3",
+      "title": "Link (TotK)",
+      "miiNumber": "#105",
+      "imageUrl": "https://i.pinimg.com/736x/46/22/70/462270e225d04f75639849efa158721e.jpg",
+      "category": "Videogame",
+      "likes": 97,
+      "gender": "Male",
+      "date": "21. Feb. 2026",
+      "tags": ["tloz", "thelegendofzelda", "hero", "switch"]
+    },
+    {
+      "id": "4",
+      "title": "Princess Flame",
+      "miiNumber": "#202",
+      "imageUrl": "https://i.pinimg.com/736x/46/22/70/462270e225d04f75639849efa158721e.jpg",
+      "category": "Cartoon",
+      "likes": 243,
+      "gender": "Female",
+      "date": "14. Dec. 2026",
+      "tags": ["adventuretime", "princess", "fire"]
+    },
+    {
+      "id": "5",
+      "title": "Princess Bubblegum",
+      "miiNumber": "#203",
+      "imageUrl": "https://i.pinimg.com/736x/46/22/70/462270e225d04f75639849efa158721e.jpg",
+      "category": "Cartoon",
+      "likes": 282,
+      "gender": "Female",
+      "date": "18. Jun. 2026",
+      "tags": ["adventuretime", "princess", "candy"]
+    },
+    {
+      "id": "6",
+      "title": "Walter White",
+      "miiNumber": "#055",
+      "imageUrl": "https://i.pinimg.com/736x/46/22/70/462270e225d04f75639849efa158721e.jpg",
+      "category": "Famous",
+      "likes": 185,
+      "gender": "Male",
+      "date": "07. Sept. 2026",
+      "tags": ["famous", "breakingbad", "heisenberg"]
+    }
+  ]
+}
