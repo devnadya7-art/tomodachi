@@ -5,13 +5,28 @@
     "Videogame",
     "Cartoon",
     "Movies",
-    "Famous"
+    "Famous",
+    "Football"
   ],
   "miis": [
     {
       "id": "1",
-      "title": "Keiji Akaashi",
+      "title": "Messi",
       "miiNumber": "#0001",
+      "imageUrl": "https://i.pinimg.com/736x/1c/a9/98/1ca9989ec0e3b130444fb15a94b52a27.jpg",
+      "category": "Football",
+      "likes": 841,
+      "gender": "Male",
+      "date": "18. Apr. 2026",
+      "tags": [
+        "Football",
+        "Messi"
+      ]
+    },
+    {
+      "id": "1",
+      "title": "Keiji Akaashi",
+      "miiNumber": "#0164",
       "imageUrl": "https://i.pinimg.com/736x/bb/29/ad/bb29adcbc2c70301d0d8175293a01ac5.jpg",
       "category": "Anime",
       "likes": 841,
